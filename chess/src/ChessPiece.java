@@ -1,0 +1,4 @@
+interface ChessPiece{
+    void move();
+
+}
